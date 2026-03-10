@@ -30,18 +30,55 @@
 
 ### 机器学习 入门 级
 
-**零基础、代码短、10 分钟能跑通**  
-
 | 项目 | 简介 |
 |--------|------|
+|[deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)|深度学习，机器学习，计算机视觉和自然语言处理的课程多所大学的合集|
+|[tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning)|从零到精通深度学习TensorFlow课程的所有课程材料|
+|[funNLP](https://github.com/fighting41love/funNLP)|号称几乎最全的中文NLP资源库|
+|[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|包含了深度学习从基础到熟悉的教程和视频|
+|[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)|机器学习和深度学习教程|
+|[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|
+|[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
+|[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
+|[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
+|[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
+|[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
+|[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)|深度学习研究人员PyTorch教程|
+|[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|
+|[cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|计算机科学课程的视频讲座列表|
+|[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|简单快速地构建你的神经网络|
+|[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
+|[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
+|[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
+|[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
+|[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)|TensorFlow教程与YouTube视频|
+|[tutorials](https://github.com/MorvanZhou/tutorials)|机器学习相关教程|
+|[Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)|周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有…|
+|[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
+|[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
+|[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
+|[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
+|[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
+|[tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新|
+|[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)|《Python机器学习（第二版）》一书代码库和信息资源|
+|[mit-deep-learning](https://github.com/lexfridman/mit-deep-learning)|麻省理工学院深度学习相关课程的教程、作业和竞赛|
+|[pytorch-book](https://github.com/chenyuntc/pytorch-book)| 《深度学习框架PyTorch：入门与实战》|
+|[Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months)|这是Siraj Raval在Youtube上的“在3个月内学习机器学习”的代码|
+|[Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战|
+|[learnopencv](https://github.com/spmallick/learnopencv)|学习OpenCV: C和Python示例|
+|[neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)|书，《神经网络和深度学习》的代码示例|
+|[stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)|斯坦福CS 229机器学习|
 |[Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects)|包含几个初学者机器学习项目|
 | [Randy Olson's data analysis and machine learning projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | 包含多个数据分析项目及教程 |
 | [Machine Learning Projects](https://github.com/aswintechguy/Machine-Learning-Projects) | 包含多个练手小型项目及教程 |
 |[Machine Learning Techniques](https://pythongeeks.org/machine-learning-techniques/)|机器学习基础概念|
+|[cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)|卷积神经网络在Tensorflow中的文本分类|
 |[Machine Learning Algorithms](https://pythongeeks.org/machine-learning-algorithms/)|算法学习|
+|[tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)|从基础到稍微有趣的Tensorflow应用|
 |[Data Preprocessing in Machine Learning](https://pythongeeks.org/data-preprocessing-in-machine-learning/)|数据预处理学习|
 | [Employee Attrition Prediction with Python](https://amanxai.com/2020/11/21/employee-attrition-prediction-with-python/) | 员工流失预测 |
 | [Heart Disease Prediction using Machine Learning](https://amanxai.com/2020/11/10/heart-disease-prediction-using-machine-learning/)| 于心脏病预测 |
+|[faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|
 | [Gender Classification with Python](https://amanxai.com/2020/11/25/gender-classification-with-python/) | 性别分类|
 |[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|数据处理 |
 |[Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)|这是一个端到端的项目，预测建筑物的能源之星得分|
@@ -54,6 +91,10 @@
 |[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
 |[Gaussian Mixture Model in Machine Learning](https://pythongeeks.org/gaussian-mixture-model-in-machine-learning/)|机器学习中的高斯混合模型|
 |[K-means Clustering in Machine Learning](https://pythongeeks.org/k-means-clustering-in-machine-learning/)|K-Means聚类|
+|[Machine-Learning-with-Python](https://github.com/devAmoghS/Machine-Learning-with-Python)|包含24个小型机器学习项目|
+|[Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code)|包含24个数据分析项目|
+|[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目|
+|[DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples)|深度学习示例|
 
 
 
@@ -63,8 +104,6 @@
   ---
 
 ### 机器学习 提升 级
-
-**需要一点基础，但不复杂**  
 
 | 项目 | 简介 |
 |--------|------|
@@ -85,6 +124,7 @@
 |[Sentiment Analysis in Python using Machine Learning](https://data-flair.training/blogs/python-sentiment-analysis/)|情感分析项目|
 |[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
 |[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
+|[graph_nets](https://github.com/deepmind/graph_nets)|在Tensorflow中构建图网|
 |[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
 |[Emojify – Create your own emoji with Deep Learning](https://data-flair.training/blogs/create-emoji-with-deep-learning/)|对人类的面部表情进行分类，过滤并映射相应的表情符号或头像|
 |[Handwritten Digit Recognition with Python & CNN](https://techvidvan.com/tutorials/handwritten-digit-recognition-with-python-cnn/)|基于CNN的手写数字识别|
@@ -113,6 +153,20 @@
 |[Delivery Time Cost Prediction using Bayesian Regression in ML](https://projectgurukul.org/delivery-time-cost-prediction-using-bayesian-regression-in-ml/)|基于贝叶斯回归的交货时间成本预测|
 |[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
 | [Machine Learning Projects Repository](https://github.com/shsarv/Machine-Learning-Projects?tab=readme-ov-file) | 这个集合包含了17个项目，展示了机器学习、深度学习、自然语言处理（NLP）和计算机视觉中的核心概念 |
+|[machineLearning](https://github.com/animesh1012/machineLearning)|包含15个机器学习项目|
+|[machine-learning-nd](https://github.com/jessicayung/machine-learning-nd)|包含了Udacity的机器学习纳米学位项目文件和笔记，包含4个项目|
+|[kafka-streams-machine-learning-examples](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples)|4个机器学习Kafka Streams 的例子|
+|[Data-Science-and-Machine-Learning-Projects-Dojo](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo)|包含数据科学，机器学习和可视化Dojo的多个项目|
+|[Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production)|一本书，生产中的深度学习|
+|[NLP-Projects](https://github.com/gaoisbest/NLP-Projects)|13个nlp项目|
+|[deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)|图像识别的深度残差学习|
+|[xlnet](https://github.com/zihangdai/xlnet)|语言理解的广义自回归预训练|
+|[keras-rl](https://github.com/keras-rl/keras-rl)|Keras的深度强化学习|
+|[gcn](https://github.com/tkipf/gcn)|卷积网络在TensorFlow中的实现|
+|[cnn-explainer](https://github.com/poloclub/cnn-explainer)|卷积神经网络与交互可视化|
+|[tensorflow_practice](https://github.com/princewen/tensorflow_practice)|tensorflow实战练习，包括强化学习、推荐系统、nlp等|
+|[pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)|4.2k|Pytorch implementation of convolutional neural network visualization techniques|
+|[deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)|深度学习研究论文的总结和注释|
 
 
 
@@ -120,8 +174,6 @@
   ---
 
 ### 机器学习 毕设 级
-
-**完整、有难度、可直接当毕设**  
 
 | 项目 | 简介 |
 |--------|------|
@@ -153,18 +205,26 @@
 |[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
 |[Fake Product Review Detection using Machine Learning](https://pythongeeks.org/fake-product-review-detection-using-machine-learning/)|该系统将协助组织用户评论，以便潜在客户和制造商都可以快速决定是否购买或销售各种产品|
 |[Develop LSTM Models for Time Series Forecasting](https://nixustechnologies.com/lstm-time-series-forecasting/)|时间序列预测模型|
+|[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
+|[computer-vision-ND](https://github.com/Bjarten/computer-vision-ND)|Udacity的计算机视觉纳米学位的练习和项目集|
+|[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
+|[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
+|[facenet](https://github.com/davidsandberg/facenet)|人脸识别使用Tensorflow|
+|[tensorpack](https://github.com/tensorpack/tensorpack)|基于TensorFlow的神经网络训练接口，重点是速度灵活性|
+|[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)|Tensorflow机器学习食谱|
+
+
 
 
   ---
 
 ### 机器学习 面试 级
 
-**面试高频、技术深度、体现工程思维**  
-
 | 项目 | 简介 |
 |--------|------|
 |[Machine Learning Interview Questions and Answers](https://pythongeeks.org/machine-learning-interview-questions-and-answers/)|面试问答1|
 |[ML Interview Questions with Answers](https://pythongeeks.org/ml-interview-questions-with-answers/)|面试问答2|
+|[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识|
 | [Machine Learning Projects](https://github.com/anujvyas/Machine-Learning-Projects)|包含多个算法类的机器学习项目 |
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测模型 |
 |[Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)|检测假新闻项目|
@@ -194,6 +254,16 @@
 |[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
 |[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
+|[machine-learning-open-source](https://github.com/Mybridge/machine-learning-open-source?tab=readme-ov-file)|每月Top 10机器学习开源|
+|[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
+|[zhihu](https://github.com/NELSONZHAO/zhihu)|NLP和计算机视觉项目集|
+|[Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)|top ai 项目|
+|[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
+|[Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)|基于TensorFlow 2.0的高级NLP项目|
+|[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
+|[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
+|[spaCy](https://github.com/explosion/spaCy)|工业强度的自然语言处理（NLP）与Python和Cython|
+|[NLP-progress](https://github.com/sebastianruder/NLP-progress)|跟踪自然语言处理（NLP）的进展，包括最常见的NLP任务的数据集和当前最先进的技术|
 
 
 
