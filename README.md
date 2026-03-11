@@ -90,6 +90,7 @@
 |[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
 |[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
 |[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
+|[ml-course](https://github.com/girafe-ai/ml-course)|开放机器学习课程|
 |[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
 |[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)|这是一个很棒的负责任的机器学习资源列表|
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
@@ -149,6 +150,7 @@
 |[Data-Science-Machine-Learning-Project-with-Source-Code](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code)|包含24个数据分析项目|
 |[nlp-beginner-projects](https://github.com/positivepeng/nlp-beginner-projects)|nlp初学者项目||[nlp-beginner-projects](https://github.com/positivepeng
 lp-beginner-projects)|nlp初学者项目|
+|[machine-learning-articles](https://github.com/christianversloot/machine-learning-articles)|christianversloot的机器学习的文章|
 |[Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python)|常见机器学习算法的Python代码|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)|由deeplearning提供的Coursera深度学习专业课程中的所有课程的笔记|
@@ -198,6 +200,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[aerosolve](https://github.com/airbnb/aerosolve)|一个为人类设计的机器学习包|
 |[graph_nets](https://github.com/deepmind/graph_nets)|在Tensorflow中构建图网|
 |[Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021/2022/2023春季机器学习课程课件及作业|
+|[awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)|在这里，您可以获得所有的量子机器学习基础知识，算法，学习材料，项目和项目的描述|
 |[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)|学习机器学习和深度学习的资源|
 |[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)|顶级深度学习项目及教程|
 |[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目||[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
@@ -294,6 +297,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[Real-time Hand Gesture Recognition using TensorFlow & OpenCV](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)|使用OpenCV和Python中的MediaPipe框架和Tensorflow制作一个实时手势识别器|
 |[grobid](https://github.com/grobidOrg/grobid)|从学术文献中提取信息的机器学习软件|
 |[Augmentor](https://github.com/mdbloice/Augmentor)|用于机器学习的Python图像增强库|
+|[ManimML](https://github.com/helblazer811/ManimML)|ManimML是一个项目，专注于与Manim社区图书馆一起提供常见机器学习概念的动画和可视化|
 |[fast-style-transfer](https://github.com/lengstrom/fast-style-transfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的快速风格转移|
 |[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
 |[whereami](https://github.com/kootenpv/whereami)|使用WiFi信号和机器学习来预测你的位置|
@@ -361,6 +365,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[interpret](https://github.com/interpretml/interpret)|拟合可解释的模型，解释一下黑箱机器学习|
 |[A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)|包含来自80多家公司的300个案例研究|
 |[Ai-Learn](https://github.com/tangyudi/Ai-Learn)|机器学习面试路线图|
+|[ml-workspace](https://github.com/ml-tooling/ml-workspace)|基于web的集成开发环境，专门用于机器学习和数据科学|
 |[MLQuestions](https://github.com/andrewekhalel/MLQuestions)|机器学习和计算机视觉工程师-技术面试问题|
 |[machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)|机器学习中的经典方程和图表|
 |[AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero)|机器学习系统⚡️人工智能系统论文和行业实践|
@@ -396,6 +401,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)|机器学习，NLP，视觉，推荐系统项目想法的策划列表|
 |[Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)|top ai 项目|
 |[video2x](https://github.com/k4yt3x/video2x)|基于机器学习的视频超分辨率和帧插值框架|
+|[Alink](https://github.com/alibaba/Alink)|Alink是基于Flink的机器学习算法平台，由阿里巴巴计算平台PAI团队开发|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
 |[Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)|基于TensorFlow 2.0的高级NLP项目|
 |[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
