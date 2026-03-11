@@ -307,6 +307,8 @@ lp-beginner-projects)|nlp初学者项目|
 |[DeepFake Detection using Convolutional Neural Networks](https://techvidvan.com/tutorials/deepfake-detection-using-cnn/)|deepfake检测系统用于检测图像是真实图像还是deepfake图像|
 |[Image Segmentation using Machine Learning](https://techvidvan.com/tutorials/image-segmentation-machine-learning/)|提供被检测物体的精确轮廓|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
+|[rasa](https://github.com/RasaHQ/rasa)|AI代理原型的新互动平台|
+|[ml-agents](https://github.com/Unity-Technologies/ml-agents)|Unity机器学习代理工具包（ML-Agents）是一个开源项目|
 |[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
 |[Customer Segmentation with Machine Learning](https://projectgurukul.org/customer-segmentation-project-machine-learning/)|客户细分项目|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
@@ -315,6 +317,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
 |[zhihu](https://github.com/NELSONZHAO/zhihu)|NLP和计算机视觉项目集|
 |[Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)|top ai 项目|
+|[video2x](https://github.com/k4yt3x/video2x)|基于机器学习的视频超分辨率和帧插值框架|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
 |[Advanced-NLP-Projects-with-TensorFlow-2.0](https://github.com/PacktPublishing/Advanced-NLP-Projects-with-TensorFlow-2.0)|基于TensorFlow 2.0的高级NLP项目|
 |[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
