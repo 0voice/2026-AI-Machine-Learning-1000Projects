@@ -71,6 +71,7 @@
 |[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)|牛津NLP 2017课程|
 |[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)|简单的PyTorch教程零到精通|
 |[TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|简单易用的TensorFlow教程|
+|[Qix](https://github.com/ty4z2008/Qix)|包含机器学习，深度学习，PostgreSQL，分布式系统，Node.Js, Golang的学习资料|
 |[have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|机器学习和神经网络图像分类的绝对初学者指南|
 |[pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|对《机器学习》（西瓜书）公式推导解析|
 |[awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)|机器学习资源大全中文版，包括机器学习领域的框架、库以及软件|
@@ -87,6 +88,9 @@
 |[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
 |[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
+|[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
+|[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
+|[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
 |[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
 |[tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新|
 |[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)|《Python机器学习（第二版）》一书代码库和信息资源|
@@ -134,6 +138,7 @@ lp-beginner-projects)|nlp初学者项目|
 |[MachineLearning](https://github.com/wepe/MachineLearning)|基础机器学习和深度学习|
 |[examples](https://github.com/tensorflow/examples)|TensorFlow例子|
 |[DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|
+|[MLAlgorithms](https://github.com/rushter/MLAlgorithms)|机器学习算法实现的最小和干净的例子|
 
 
 
@@ -166,13 +171,16 @@ lp-beginner-projects)|nlp初学者项目|
 |[Sentiment Analysis in Python using Machine Learning](https://data-flair.training/blogs/python-sentiment-analysis/)|情感分析项目|
 |[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目||[Credit Card Fraud Detection with Python & Machine Learning信用卡欺诈检测与Python机器学习](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
 |[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目||[Deep Learning Project – Handwritten Digit Recognition using Python使用Python的手写数字识别深度学习项目](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
+|[machinelearning](https://github.com/ljpzzz/machinelearning)|刘建平Pinard的博客配套代码|
 |[graph_nets](https://github.com/deepmind/graph_nets)|在Tensorflow中构建图网|
+|[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)|学习机器学习和深度学习的资源|
 |[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)|顶级深度学习项目及教程|
 |[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目||[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
 |[Emojify – Create your own emoji with Deep Learning](https://data-flair.training/blogs/create-emoji-with-deep-learning/)|对人类的面部表情进行分类，过滤并映射相应的表情符号或头像|
 |[Handwritten Digit Recognition with Python & CNN](https://techvidvan.com/tutorials/handwritten-digit-recognition-with-python-cnn/)|基于CNN的手写数字识别|
 |[Sentiment Analysis using Python [with source code]](https://techvidvan.com/tutorials/python-sentiment-analysis/)|检查一段文字中表达的情感|
 |[Twitter Hashtag Prediction Project using Machine learning](https://techvidvan.com/tutorials/twitter-hashtag-prediction-machine-learning/)|分析有关天气预报的推文，然后预测与这些推文相关的所有标签|
+|[ggml](https://github.com/ggml-org/ggml)|张量库用于机器学习|
 |[Spam Detection using SVM](https://techvidvan.com/tutorials/spam-detection-using-svm/)|基于SVM分类器构建一个SMS垃圾邮件检测器|
 |[DeepFake Detection using Convolutional Neural Networks](https://techvidvan.com/tutorials/deepfake-detection-using-cnn/)|deepfake检测系统用于检测图像是真实图像还是deepfake图像|
 |[Diabetes Prediction using Machine Learning](https://techvidvan.com/tutorials/diabetes-prediction-using-machine-learning/)|进行糖尿病预测分析|
@@ -236,11 +244,14 @@ lp-beginner-projects)|nlp初学者项目|
 |[Pneumonia Detection using CNN in Python](https://data-flair.training/blogs/pneumonia-detection-cnn-python/)|基于CNN进行肺炎检测|
 |[Real-Time Object Detection using TensorFlow](https://data-flair.training/blogs/object-detection-tensorflow/)|基于TensorFlow进行实时对象检测|
 |[Custom Object Detection with YOLO V5](https://data-flair.training/blogs/custom-object-detection-yolo/)|目标检测项目|
+|[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全机器学习|
 |[Real-Time Face Mask Detector with Python, OpenCV, Keras](https://data-flair.training/blogs/face-mask-detection-with-python/)|实时人脸检测项目|
 |[Real-time Pedestrian Detection using Python & OpenCV](https://data-flair.training/blogs/pedestrian-detection-python-opencv/)|实时行人检测项目|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
 |[Real-time Hand Gesture Recognition using TensorFlow & OpenCV](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)|使用OpenCV和Python中的MediaPipe框架和Tensorflow制作一个实时手势识别器|
+|[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
+|[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)|收集机器学习和深度学习模型的股票预测，包括交易机器人和模拟|
 |[Build a Movie Recommendation System in Python using Machine Learning](https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/)|电影推荐系统|
 |[Machine Learning Project – Bird Species Identification](https://techvidvan.com/tutorials/machine-learning-bird-species-identification/)|根据鸟类的外观对不同种类的鸟类进行识别和分类|
 |[Handwritten Character Recognition – Machine Learning Project](https://projectgurukul.org/handwritten-character-recognition-ml-project/)|手写字符识别项目|
@@ -257,12 +268,14 @@ lp-beginner-projects)|nlp初学者项目|
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
 |[facenet](https://github.com/davidsandberg/facenet)|人脸识别使用Tensorflow|
 |[tensorpack](https://github.com/tensorpack/tensorpack)|基于TensorFlow的神经网络训练接口，重点是速度灵活性|
+|[ChatterBot](https://github.com/gunthercox/ChatterBot)|聊天机器人|
 |[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)|Tensorflow机器学习食谱|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全的机器学习|
 |[deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|深度强化学习纳米学位项目|
 |[pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)|Python音频分析库：特征提取，分类，分割和应用|
 |[transformers](https://github.com/huggingface/transformers/tree/main)| LLM 应用|
 |[Co2-Emission-Prediction-Using-Machine-Learning](https://github.com/Vatshayan/Co2-Emission-Prediction-Using-Machine-Learning)|最后一年二氧化碳排放预测使用机器学习项目|
+|[imgaug](https://github.com/aleju/imgaug)|机器学习项目增强图像|
 
 
 
@@ -290,6 +303,9 @@ lp-beginner-projects)|nlp初学者项目|
 |[Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)|基于OpenCV &； Keras的驾驶员困倦检测系统|
 |[Python Project on Traffic Signs Recognition with 95% Accuracy using CNN & Keras](https://data-flair.training/blogs/python-project-traffic-signs-recognition/)|基于CNN &； Keras的交通标志识别项目|
 |[Python based Project – Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)|基于Python &ndash的图像标题生成器的项目|
+|[A-Curated-List-of-ML-System-Design-Case-Studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)|包含来自80多家公司的300个案例研究|
+|[Ai-Learn](https://github.com/tangyudi/Ai-Learn)|机器学习面试路线图|
+|[nni](https://github.com/microsoft/nni)|NNI自动化特征工程、神经架构搜索、超参数调优和深度学习的模型压缩|
 |[Abandoned Object Detection in Video Surveillance using OpenCV](https://data-flair.training/blogs/abandoned-object-detection/)|基于OpenCV和python的废弃物体检测系统项目|
 |[Python Project – Music Genre Classification](https://data-flair.training/blogs/python-project-music-genre-classification/)|从音频文件中自动分类不同的音乐类型|
 |[Image Segmentation with Machine Learning](https://data-flair.training/blogs/image-segmentation-machine-learning/)|基于机器学习的图像分割|
@@ -316,6 +332,8 @@ lp-beginner-projects)|nlp初学者项目|
 |[machine-learning-open-source](https://github.com/Mybridge/machine-learning-open-source?tab=readme-ov-file)|每月Top 10机器学习开源|
 |[GANs-in-Computer-Vision](https://github.com/The-AI-Summer/GANs-in-Computer-Vision)|GAN系列，对6篇不同文章的20多篇论文进行了全面分析|
 |[zhihu](https://github.com/NELSONZHAO/zhihu)|NLP和计算机视觉项目集|
+|[state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)|为所有机器学习问题提供了最先进的（SoTA）结果|
+|[awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)|机器学习，NLP，视觉，推荐系统项目想法的策划列表|
 |[Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)|top ai 项目|
 |[video2x](https://github.com/k4yt3x/video2x)|基于机器学习的视频超分辨率和帧插值框架|
 |[AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)|关于代对抗网络的资源和论文的集合|
@@ -323,6 +341,8 @@ lp-beginner-projects)|nlp初学者项目|
 |[bert](https://github.com/google-research/bert)|TensorFlow代码和BERT预训练模型|
 |[Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)|在5秒内克隆一个声音，实时生成任意语音|
 |[spaCy](https://github.com/explosion/spaCy)|工业强度的自然语言处理（NLP）与Python和Cython|
+|[imgaug](https://github.com/aleju/imgaug)|机器学习项目增强图像|
+|[ivy](https://github.com/ivy-llc/ivy)|在框架之间转换机器学习代码|
 |[NLP-progress](https://github.com/sebastianruder/NLP-progress)|跟踪自然语言处理（NLP）的进展，包括最常见的NLP任务的数据集和当前最先进的技术|
 |[daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)|记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文|
 |[HyperLPR](https://github.com/zeusees/HyperLPR)|基于深度学习高性能中文车牌识别|
