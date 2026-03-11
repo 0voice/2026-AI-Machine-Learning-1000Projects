@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="images/ml_banner.png" width="800">
-</div>
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
 <p align="center">
@@ -10,6 +7,9 @@
 <p align="center">
   🚀 持续更新中 
 </p>
+<div align="center">
+  <img src="images/ml_banner.png" width="800">
+</div>
 
 ---
 
