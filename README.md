@@ -1,6 +1,6 @@
 
 <h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
-🌍 **其他语言 / Other Languages**：
+
 - [English](README.en.md)
 - [中文](README.md)
 <p align="center">
