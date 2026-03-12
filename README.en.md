@@ -27,7 +27,7 @@
 |----------------|-----------------------------|
 | 📌 [Machine Learning (Entry-Level)](#Machine-Learning-(Entry-Level))     | Zero-Basis Learning & Small Project Practice     | 
 | 📈 [Machine Learning (Intermediate-Level)](#Machine-Learning-(Intermediate-Level))     | Consolidate Algorithm Foundations & Project Hands-On Practice    | 
-| 🎓 [Machine Learning (Graduation Project-Level)](#Machine-Learning-(Graduation Project-Level))    | Graduation Design & Course Design          | 
+| 🎓 [Machine Learning (Graduation Project-Level)](#Machine-Learning-(Graduation——Project-Level))    | Graduation Design & Course Design          | 
 | 💼 [Machine Learning (Interview-Level)](#Machine-Learning-(Interview-Level))    | Interview Materials, Project Preparation & In-depth Technical Exploration  | 
 
 ### 🔄 Continuous Updates
@@ -273,7 +273,7 @@ Please contact me for removal if any copyright issues are involved.
 
   ---
 
-### Machine Learning (Graduation Project-Level)
+###Machine Learning (Graduation Project-Level)
 
 | Project | Introduction |
 |--------|------|
