@@ -96,7 +96,9 @@
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
 |[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
 |[mlcourse.ai](https://github.com/Yorko/mlcourse.ai)|免费机器学习课程|
+|[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|机器学习框架、库和软件列表|
 |[machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)|机器学习示例和教程的集合|
+|[MachineLearning](https://github.com/wepe/MachineLearning)|机器学习算法的实现代码|
 |[machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)| 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著|
 |[tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)|tensorflow2中文教程，持续更新|
 |[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)|《Python机器学习（第二版）》一书代码库和信息资源|
@@ -134,6 +136,7 @@
 |[Data Science Project Boilerplate](https://github.com/4GeeksAcademy/machine-learning-python-template)|数据处理 |
 |[Your-first-machine-learning-Project---End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)|这是一个端到端的项目，预测建筑物的能源之星得分|
 |[angel](https://github.com/Angel-ML/angel)|一种灵活而强大的大规模机器学习参数服务器|
+|[machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|学习成为机器学习工程师的完整每日计划|
 |[tensorflow](https://github.com/tensorflow/tensorflow)|TensorFlow是一个端到端的开源平台 用于机器学习|
 |[pysc2](https://github.com/google-deepmind/pysc2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|星际争霸II学习环境|
 | [Online Shopping Intention Analysis with Python](https://amanxai.com/2020/12/04/online-shopping-intention-analysis-with-python/) | 在线购物意图分析 |
@@ -240,14 +243,17 @@ lp-beginner-projects)|nlp初学者项目|
 |[Market Basket Analysis using Apriori Algorithm](https://projectgurukul.org/market-basket-analysis-using-apriori-algorithm/)|基于Apriori算法的购物篮分析|
 | [Machine Learning Projects Repository](https://github.com/shsarv/Machine-Learning-Projects?tab=readme-ov-file) | 这个集合包含了17个项目，展示了机器学习、深度学习、自然语言处理（NLP）和计算机视觉中的核心概念 |
 |[cuml](https://github.com/rapidsai/cuml)|RAPIDS机器学习库|
+|[MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)|Python笔记本与机器学习和深度学习的例子与Azure机器学习Python SDK|
 |[tsai](https://github.com/timeseriesAI/tsai)|时间序列时间序列深度学习机器学习 |
 |[pattern_classification](https://github.com/rasbt/pattern_classification)|解决和理解机器学习和模式分类任务的教程和示例的集合|
 |[machineLearning](https://github.com/animesh1012/machineLearning)|包含15个机器学习项目|
 |[machine-learning-nd](https://github.com/jessicayung/machine-learning-nd)|包含了Udacity的机器学习纳米学位项目文件和笔记，包含4个项目|
 |[kafka-streams-machine-learning-examples](https://github.com/kaiwaehner/kafka-streams-machine-learning-examples)|4个机器学习Kafka Streams 的例子|
+|[machine-learning-interview](https://github.com/khangich/machine-learning-interview)|来自FAANG， Snapchat， LinkedIn的机器学习访谈|
 |[Data-Science-and-Machine-Learning-Projects-Dojo](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo)|包含数据科学，机器学习和可视化Dojo的多个项目|
 |[Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production)|一本书，生产中的深度学习|
 |[NLP-Projects](https://github.com/gaoisbest/NLP-Projects)|13个nlp项目|
+|[machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)|算法交易机器学习代码，第2版|
 |[deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)|图像识别的深度残差学习|
 |[tensor2tensor](https://github.com/tensorflow/tensor2tensor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|广义序列模型及序列模型的库|
 |[xlnet](https://github.com/zihangdai/xlnet)|语言理解的广义自回归预训练|
