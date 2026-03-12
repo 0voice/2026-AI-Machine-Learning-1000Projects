@@ -1,5 +1,7 @@
 
 <h1 align="center">🔥 2026: Master machine learning hands-on with over 1,000 ML projects.</h1>
+
+- [English](README.en.md)- [中文](README.md)
 <p align="center">
   💼 Collect and organize <b>1000+</b> high-quality, open-source machine learning projects — a hands-on ML collection that beginners can run directly, covering all scenarios: getting started, skill improvement, graduation projects, and job interviews.
 </p>
