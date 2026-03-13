@@ -380,6 +380,9 @@
 |[fast-style-transfer](https://github.com/lengstrom/fast-style-transfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的快速风格转移|
 |[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
 |[whereami](https://github.com/kootenpv/whereami)|使用WiFi信号和机器学习来预测你的位置|
+|[SeizurePredictionThesis](https://github.com/Julian-Webb/SeizurePredictionThesis)|我的硕士论文是关于使用卷积神经网络和其他机器学习来预测脑电图癫痫数据中的癫痫发作|
+|[pancreatic-disease-prediction-ml](https://github.com/Zaifikhan/pancreatic-disease-prediction-ml)|使用先进的机器学习技术预测胰腺疾病状态，重点是生物标志物和帮助的可重复性和准确性|
+|[DECODE-Cognitive-Distortions](https://github.com/SusannaMazzocchi/DECODE-Cognitive-Distortions)|一个机器学习/ NLP项目，用于检测心理咨询对话中的认知扭曲|
 |[Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)|收集机器学习和深度学习模型的股票预测，包括交易机器人和模拟|
 |[Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)|使用PyTorch解决机器学习和深度学习的现实问题的Jupyter Notebook教程。主题：人脸检测& help|
 |[Build a Movie Recommendation System in Python using Machine Learning](https://techvidvan.com/tutorials/movie-recommendation-system-python-machine-learning/)|电影推荐系统|
@@ -391,6 +394,7 @@
 |[Phishing Websites Prediction Using Machine Learning](https://www.kaggle.com/writeups/mdfujaelahmed/phishing-websites-prediction-using-machine-learnin)|利用机器学习预测钓鱼网站|
 |[Predicting Student Performance Using Machine Learning](https://www.kaggle.com/writeups/ajmiraribam/predicting-student-performance-using-machine-learn)|使用机器学习预测学生表现|
 |[Flower Recognition using CNN](https://projectgurukul.org/flower-recognition-using-cnn/)|自动识别花的图像，并告诉花的名字|
+|[fairness-analysis-pima](https://github.com/MaxPaez/fairness-analysis-pima)|使用Pima糖尿病数据集分析机器学习模型中的公平性，具有指标，可视化和综合报告|
 |[Smart-Attendance-System](https://github.com/AtulBX1/Smart-Attendance-System)|使用机器学习的智能出勤系统，根据出勤趋势、行为模式和异常情况预测有风险的学生|
 |[LATENT-TB-SW-ML-38](https://github.com/KAKOOZAMICHAEL/LATENT-TB-SW-ML-38)|这个项目是关于整合机器学习来解决政府在治疗活动性结核病上浪费大量资源的负担|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
