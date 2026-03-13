@@ -379,6 +379,8 @@
 |[Speaker-Independent-Speech-Emotion-Recognition](https://github.com/Kippus0s/Speaker-Independent-Speech-Emotion-Recognition)|学士学位期末项目的源代码，题为“研究机器学习和深度学习方法对语音情感的影响”|
 |[fast-style-transfer](https://github.com/lengstrom/fast-style-transfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于TensorFlow的快速风格转移|
 |[sktime](https://github.com/sktime/sktime)|时间序列机器学习的统一框架|
+|[detecting-collusion](https://github.com/daniloldn/detecting-collusion)|利用新颖的机器学习方法检测共谋的硕士论文|
+|[iot-smart-plug](https://github.com/AbhiZx18324/iot-smart-plug)|基于物联网的智能插头系统，用于设备识别和电源监控，使用虚拟传感器、MQTT和机器学习|
 |[whereami](https://github.com/kootenpv/whereami)|使用WiFi信号和机器学习来预测你的位置|
 |[SeizurePredictionThesis](https://github.com/Julian-Webb/SeizurePredictionThesis)|我的硕士论文是关于使用卷积神经网络和其他机器学习来预测脑电图癫痫数据中的癫痫发作|
 |[pancreatic-disease-prediction-ml](https://github.com/Zaifikhan/pancreatic-disease-prediction-ml)|使用先进的机器学习技术预测胰腺疾病状态，重点是生物标志物和帮助的可重复性和准确性|
@@ -401,6 +403,7 @@
 |[Banking Fraud Detection – Machine Learning Pipeline](https://www.kaggle.com/writeups/karthikavinu/fraud-detection)|使用监督ML模型检测欺诈性银行交易，处理严重的类不平衡和大规模表格数据|
 |[Predicting Diabetes with Machine Learning](https://www.kaggle.com/writeups/mohammedhamedibrahim/predicting-diabetes-with-machine-learning)|用机器学习预测糖尿病|
 |[diabetes classifications using machine learning](https://www.kaggle.com/writeups/tasniasany345/diabetes-classifications-using-machine-learning)|使用机器学习进行糖尿病分类|
+|[Accident-Detection-and-Severity-Prediction-](https://github.com/satyasri-2006/Accident-Detection-and-Severity-Prediction-)|机器学习项目，使用RTA数据集预测道路事故的严重程度|
 |[Food Classification using Deep Learning](https://projectgurukul.org/food-classification-using-deep-learning/)|食物分类系统|
 |[Predicting miRNA Therapeutics for Cancer with Deep Learning](https://www.kaggle.com/writeups/abdullahalmarzan/mirna-therapeutics)|该项目涉及设计一个基于变压器的深度学习模型来识别优化的miRNA序列|
 |[Customer Segmentation with RFM Analysis using Machine Learning](https://projectgurukul.org/customer-segmentation-with-rfm-analysis-using-machine-learning/)|客户细分与RFM分析算法|
@@ -459,6 +462,7 @@
 |[Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)|检测假新闻项目|
 |[Python Machine Learning Project – Detecting Parkinson’s Disease with XGBoost](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)|测出一个人体内是否存在帕金森病|
 |[fastText](https://github.com/facebookresearch/fastText?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|用于快速文本表示和分类的库|
+|[greends-pml](https://github.com/isa-ulisboa/greends-pml)|机器学习导论课程ISA数据科学硕士研究生|
 |[deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|论文 “深度照片风格转换”的代码与数据|
 |[Project in Python – Breast Cancer Classification with Deep Learning](https://data-flair.training/blogs/project-in-python-breast-cancer-classification/)|基于深度学习的乳腺癌分类项目|
 |[Interesting Python Project of Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)|基于OpenCV进行性别和年龄检测|
