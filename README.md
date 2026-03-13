@@ -341,6 +341,7 @@
 |[Pneumonia Detection using CNN in Python](https://data-flair.training/blogs/pneumonia-detection-cnn-python/)|基于CNN进行肺炎检测|
 |[Real-Time Object Detection using TensorFlow](https://data-flair.training/blogs/object-detection-tensorflow/)|基于TensorFlow进行实时对象检测|
 |[Custom Object Detection with YOLO V5](https://data-flair.training/blogs/custom-object-detection-yolo/)|目标检测项目|
+|[Adeptiv AI - AI Governance](https://www.kaggle.com/writeups/adeptivai/adeptiv-ai-ai-governance)|人工智能治理副驾驶|
 |[awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)|网络安全机器学习|
 |[AirSim](https://github.com/Microsoft/AirSim?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|基于虚幻引擎的开源模拟器，适用于Microsoft AI和Research的自动驾驶交通工具|
 |[Bitcoin Price Prediction with Machine Learning](https://www.kaggle.com/writeups/alamgirkhan48692/bitcoin-price-prediction-with-machine-learning)|用机器学习预测比特币价格|
