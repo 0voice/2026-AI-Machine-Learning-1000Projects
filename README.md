@@ -68,6 +68,8 @@
 |[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
 |[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
 |[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
+|[TOBoML](https://github.com/Carl-McBride-Ellis/TOBoML)|机器学习橙皮书|
+|[Mobile-Price-Prediction](https://github.com/kevinromany/Mobile-Price-Prediction)|使用基于RAM、电池、相机和存储等功能的机器学习预测智能手机价格，以支持知情定价|
 |[fucking-Machine-Learning-Tutorials](https://github.com/Correia-jpv/fucking-Machine-Learning-Tutorials)|机器学习和深度学习教程|
 |[d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材|
 |[Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|
@@ -105,8 +107,10 @@
 |[nlp-tutorial](https://github.com/graykode/nlp-tutorial)|深度学习研究人员自然语言处理教程|
 |[TensorFlow-World](https://github.com/astorfi/TensorFlow-World)|简单易用的TensorFlow教程|
 |[Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)|Tensorflow教程从基本到困难|
+|[forecasting_the_US_treasury_yield_curve](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve)|通过强大的机器学习方法预测美国国债收益率曲线，提高金融的准确性和决策能力|
 |[ml-course](https://github.com/girafe-ai/ml-course)|开放机器学习课程|
 |[machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)|Python机器学习课程|
+|[Sales_forecasting_m5](https://github.com/K1Mo0/Sales_forecasting_m5)|使用M5数据集预测零售销售，通过经过验证的统计和机器学习帮助加强库存管理和收入计划|
 |[Titanic Survival Prediction with Feature Engineering](https://www.kaggle.com/writeups/ayeshanausheen/titanic-survival-prediction)|对泰坦尼克号数据集的初学者友好的探索，使用机器学习来预测乘客的生存并发现关键的见解|
 |[awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)|这是一个很棒的负责任的机器学习资源列表|
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
@@ -214,7 +218,8 @@
 |[MLE-Flashcards](https://github.com/b7leung/mle-flashcards)|包含多个机器学习提升项目|
 |[shap](https://github.com/shap/shap)|用博弈论方法，解释任何机器学习模型的输出|
 |[handson-ml2](https://github.com/ageron/handson-ml2)|循序渐进地掌握基于 Python 的机器学习与深度学习核心知识，全程使用 Scikit-Learn、Keras 和 TensorFlow 2 工具库实现|
-| [Earthquake Prediction Model with Machine Learning](https://amanxai.com/2020/11/12/earthquake-prediction-model-with-machine-learning/) | 地震预测 |
+|[Earthquake Prediction Model with Machine Learning](https://amanxai.com/2020/11/12/earthquake-prediction-model-with-machine-learning/) | 地震预测 |
+|[geom-imbalance](https://github.com/jlenec/geom-imbalance)|探索机器学习中阶级不平衡的几何理论，学习如何调整决策阈值，而不是重新训练模型|
 | [Breast Cancer Detection with Machine Learning](https://amanxai.com/2020/11/14/breast-cancer-detection-with-machine-learning/) | 乳腺癌检测 |
 | [Title Generator with Machine Learning](https://amanxai.com/2020/10/05/title-generator-with-machine-learning/)|使YouTube视频甚至您的博客的标题生成器任务 | 
 | [Next Word Prediction Model](https://amanxai.com/2020/07/20/next-word-prediction-model/) |使用Python训练一个用于下一个单词预测 |
@@ -225,6 +230,7 @@
 | [Covid-19 Cases Prediction with Python](https://amanxai.com/2020/11/29/covid-19-cases-prediction-with-python/) | Covid-19病例预测的机器学习项目 |
 |[Music Genre Classification](https://data-flair.training/blogs/python-project-music-genre-classification/)|音乐类型分类|
 |[Text Summarization using Machine Learning](https://data-flair.training/blogs/machine-learning-text-summarization/)|文本摘要项目|
+|[facultymind-ai](https://github.com/Om-Rajpure/facultymind-ai)|基于人工智能的平台，利用机器学习、基于场景的评估和互动与帮助，预测工程学院的职业倦怠风险|
 |[Sentiment Analysis in Python using Machine Learning](https://data-flair.training/blogs/python-sentiment-analysis/)|情感分析项目|
 |[Credit Card Fraud Detection with Python & Machine Learning](https://data-flair.training/blogs/credit-card-fraud-detection-python-machine-learning/)|信用卡欺诈检测项目|
 |[Deep Learning Project – Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)|基于深度学习的手写数字识别项目|
@@ -366,8 +372,10 @@
 |[Python Project – Automatic License Number Plate Recognition using Deep Learning](https://techvidvan.com/tutorials/python-project-license-number-plate-recognition/)|基于深度学习的自动车牌识别|
 |[facets](https://github.com/PAIR-code/facets?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|机器学习数据集的可视化|
 |[style2paints](https://github.com/lllyasviel/style2paints?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)|AI图像着色|
+|[BradfordWeatherML](https://github.com/tomas-jovelino-dev/BradfordWeatherML)|利用视觉分析和机器学习来分析和预测布拉德福德的太阳辐射和降雨，以做出更好的决策|
 |[Real-time Hand Gesture Recognition using TensorFlow & OpenCV](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)|使用OpenCV和Python中的MediaPipe框架和Tensorflow制作一个实时手势识别器|
 |[grobid](https://github.com/grobidOrg/grobid)|从学术文献中提取信息的机器学习软件|
+|[vehicle-health-agent](https://github.com/merobabo/vehicle-health-agent)|使用先进的机器学习监测车辆健康状况并预测故障，从而改善各种车辆类型的维护决策|
 |[Heart Disease Prediction using Machine Learning](https://www.kaggle.com/writeups/sarthakbhardwaj45/heart-disease-prediction-using-machine-learning)|一个端到端机器学习项目，使用患者健康指标和分类模型预测心脏病的存在|
 |[papers](https://github.com/aleju/papers)|机器学习论文摘要|
 |[Ai-Trading-alert-Bot](https://github.com/martinsurgenorhynx-cmd/Ai-Trading-alert-Bot)|一个python机器人，可以让你在大多数加密货币交易所进行交易，并允许你通过机器学习优化你的策略|
