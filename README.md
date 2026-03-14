@@ -116,6 +116,7 @@
 |[mml-book.github.io](https://github.com/mml-book/mml-book.github.io)|《机器学习数学》一书的配套网页|
 |[doccano](https://github.com/doccano/doccano)|机器学习从业者的开源注释工具|
 |[awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)|自动机器学习论文，文章，教程，幻灯片|
+|[Python](https://github.com/Tanu-N-Prabhu/Python)|这个存储库可以帮助您从头开始学习Python和机器学习|
 |[Machine-Learning](https://github.com/DorsaRoh/Machine-Learning)| 从头开始学习机器学习|
 |[Obsidian](https://github.com/Brian454-nexus/Obsidian)|一个机器学习管道，将非结构化的“风险登记册”（pdf /Excel）转换为干净的表格数据|
 |[My 10-Day Machine Learning Learning Journey](https://www.kaggle.com/writeups/bittuagarwal23/my-10-day-machine-learning-learning-journey)|我的10天机器学习之旅|
@@ -366,6 +367,7 @@
 |[AICW_microsoft_internship_python_project-](https://github.com/tulasibasil/AICW_microsoft_internship_python_project-)|该项目使用机器学习来预测心力衰竭患者的生存，使用临床数据，如年龄、血压|
 |[Job-FIT-AI](https://www.kaggle.com/writeups/mlops34/job-fit-ai)|一个人工智能的工作匹配系统，可以解析简历并将候选人与角色匹配，使用XGBoost预测匹配分数|
 |[Machine Learning–Based Risk Analysis of Damage in the Lembang Fault](https://www.kaggle.com/writeups/saktiwirasasmita/machine-learningbased-risk-analysis-of-damage-in)|这个项目建立了一个交互式系统，使用位置坐标和机器学习模型来估计地震风险|
+|[App-TW_Lottery](https://github.com/neophoeus/App-TW_Lottery)|一个高度先进的人工智能预测工具，用于台湾彩票|
 |[Speaker-Independent-Speech-Emotion-Recognition](https://github.com/Kippus0s/Speaker-Independent-Speech-Emotion-Recognition)|我的学士学位期末项目的源代码，题为“研究机器学习和深度学习方法对语音情感的影响”|
 |[Network-Packet-Sniffer-Traffic-Analyse-GUI](https://github.com/mwakidenis/Network-Packet-Sniffer-Traffic-Analyse-GUI)|实时捕获和分析实时网络流量，使用基于规则、mitre映射和机器学习来检测可疑活动|
 |[Breast Cancer Classification using Machine Learning](https://techvidvan.com/tutorials/breast-cancer-classification/)|使用机器学习进行乳腺癌分类|
