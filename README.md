@@ -1,15 +1,15 @@
 
-<h1 align="center">🔥 2026年 上千个机器学习项目，彻底搞定机器学习实战</h1>
-<p align="center">
-  💼 收录和整理 <b>1000+</b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖 入门 / 提升 / 毕设 / 面试  全场景
-</p>
+<h1 align   对齐="center"   "center">🔥 2026年 上千个python机器学习项目，彻底搞定机器学习/python实战</   & lt;h1>
+<p align   对齐="center"   "center">   <p align   对齐="center"   "center">
+  💼 收录和整理 <b>1000+</   & lt;b> 个高质量、开源的机器学习项目，新手能直接跑通的机器学习实战合集，覆盖 入门 / 提升 / 毕设 / 面试  全场景
+</   & lt;p>   < / p>
 
-<p align="center">
+<p align   对齐="center"   "center">   <p align   对齐="center"   "center">
   🚀 持续更新中 
-</p>
-<div align="center">
-  <img src="images/ml_banner.png" width="800">
-</div>
+</   & lt;p>   < / p>
+<div align   对齐="center"   "center">   <div align   对齐="center"   "center">
+  <img src="images/ml_banner.png"   "images/ml_banner.png" width="800"><img src="images/ml_banner.png"   "images/ml_banner.png" width="800">
+</   & lt;div>   < / div>
 
 ---
 - [English](README.en.md)- [中文](README.md)
@@ -58,7 +58,7 @@
 | [Amazon Bestselling Books Analysis with Python](https://amanxai.com/2020/11/30/amazon-bestselling-books-analysis-with-python/) | Amazon畅销书分析 |
 | [YouTube Trending Videos Analysis with Python](https://amanxai.com/2020/11/28/youtube-trending-videos-analysis-with-python/) | YouTube趋势视频分析 |
 |[Predicting Movie Popularity Using TMDB Dataset](https://www.kaggle.com/writeups/mianhamzaahmad/predicting-movie-popularity-using-tmdb-dataset)|一个机器学习项目，分析电影数据，根据投票、上映日期和其他特征预测受欢迎程度|
-|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测|
+|[Project in Python – Colour Detection using Pandas & OpenCV](https://data-flair.training/blogs/project-in-python-colour-detection/)|颜色检测||[使用Pandas &； OpenCV的Python &ndash；颜色检测项目](https://data-flair.training/blogs/project-in-python-colour-detection/)|
 |[Detect Objects of Similar Color using OpenCV in Python](https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/)|使用OpenCV检测相似颜色对象|
 |[Create Air Canvas using Python Open CV](https://techvidvan.com/tutorials/create-air-canvas-using-opencv-python/)|使用Python Open CV创建空气画布|
 |[Cartoonify Image using OpenCV and Python](https://projectgurukul.org/cartoonify-image-opencv-python/)|卡通化图像|
@@ -66,7 +66,7 @@
 |[Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)|机器学习和深度学习教程|
 |[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|
 |[introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python)|《python机器学习入门》一书的笔记本和代码|
-|[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》|
+|[Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)|书《Grokking Deep learning》||[Grokking-Deep- learning   Grokking-Deep——学习](https://github.com/iamtrask/Grokking-Deep-Learning)| * “ Grokking深度学习” |
 |[basics](https://github.com/madewithml/basics)|学习ML与代码，简化的数学和直观的视觉效果|
 |[TOBoML](https://github.com/Carl-McBride-Ellis/TOBoML)|机器学习橙皮书|
 |[Mobile-Price-Prediction](https://github.com/kevinromany/Mobile-Price-Prediction)|使用基于RAM、电池、相机和存储等功能的机器学习预测智能手机价格，以支持知情定价|
