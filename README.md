@@ -248,6 +248,7 @@
 |[awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)|在这里，您可以获得所有的量子机器学习基础知识，算法，学习材料，项目和项目的描述|
 |[Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)|学习机器学习和深度学习的资源|
 |[TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)|顶级深度学习项目及教程|
+|[openmlsys](https://github.com/openmlsys/openmlsys)|《机器学习系统：设计与实现》|
 |[Python Chatbot Project – Learn to build your first chatbot using NLTK & Keras](https://data-flair.training/blogs/python-chatbot-project/)|基于NLTK & Keras的谈话机器人项目|
 |[Emojify – Create your own emoji with Deep Learning](https://data-flair.training/blogs/create-emoji-with-deep-learning/)|对人类的面部表情进行分类，过滤并映射相应的表情符号或头像|
 |[Handwritten Digit Recognition with Python & CNN](https://techvidvan.com/tutorials/handwritten-digit-recognition-with-python-cnn/)|基于CNN的手写数字识别|
@@ -409,6 +410,7 @@
 |[Flower Recognition using CNN](https://projectgurukul.org/flower-recognition-using-cnn/)|自动识别花的图像，并告诉花的名字|
 |[fairness-analysis-pima](https://github.com/MaxPaez/fairness-analysis-pima)|使用Pima糖尿病数据集分析机器学习模型中的公平性，具有指标，可视化和综合报告|
 |[Smart-Attendance-System](https://github.com/AtulBX1/Smart-Attendance-System)|使用机器学习的智能出勤系统，根据出勤趋势、行为模式和异常情况预测有风险的学生|
+|[pyRiemann](https://github.com/pyRiemann/pyRiemann)|机器学习的多元数据通过黎曼几何的正定矩阵在Python|
 |[LATENT-TB-SW-ML-38](https://github.com/KAKOOZAMICHAEL/LATENT-TB-SW-ML-38)|这个项目是关于整合机器学习来解决政府在治疗活动性结核病上浪费大量资源的负担|
 |[Hate Speech Detection using Machine Learning](https://projectgurukul.org/hate-speech-detection-using-machine-learning/)|仇恨言论检测系统|
 |[Banking Fraud Detection – Machine Learning Pipeline](https://www.kaggle.com/writeups/karthikavinu/fraud-detection)|使用监督ML模型检测欺诈性银行交易，处理严重的类不平衡和大规模表格数据|
